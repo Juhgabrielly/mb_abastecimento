@@ -55,17 +55,6 @@ Depois, o resultado é dividido pela quantidade de litros abastecidos:
 Distância percorrida ÷ litros = km/L
 ```
 
-Exemplo:
-
-```text
-Quilometragem anterior: 10000 km
-Quilometragem atual: 10480 km
-
-10480 - 10000 = 480 km
-
-480 ÷ 40 litros = 12 km/L
-```
-
 ## Passos para testar
 
 1. Abra o projeto no Visual Studio Code.
@@ -93,33 +82,13 @@ A porta fixa ajuda a manter os dados salvos no navegador durante os testes.
 
 6. Na tela principal, clique no botão `+`.
 
-7. Cadastre o primeiro abastecimento. Exemplo:
-
-```text
-Data: 20/08/2026
-Combustível: Gasolina
-Litros: 40
-Valor pago: 240
-Quilometragem: 10000
-```
+7. Cadastre o primeiro abastecimento.
 
 8. Clique em **Adicionar**.
 
-9. Cadastre um segundo abastecimento:
+9. Cadastre um segundo abastecimento.
 
-```text
-Data: 26/08/2026
-Combustível: Gasolina
-Litros: 40
-Valor pago: 248
-Quilometragem: 10480
-```
-
-10. Confira se o aplicativo mostra o consumo de aproximadamente:
-
-```text
-12 km/L
-```
+10. Confira se o aplicativo mostra o consumo correto.
 
 11. Confira também o preço médio por litro.
 
