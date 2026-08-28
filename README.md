@@ -172,7 +172,7 @@ Se os abastecimentos cadastrados anteriormente continuarem aparecendo, o armazen
 O arquivo `.apk` do aplicativo está disponível na pasta `/assets`.
 
 ```text
-assets/abastecimento.apk
+assets/app-release.apk
 ```
-# mb_abastecimento
-# mb_abastecimento
+
+2. Encaminha ele atraves de algum aplicativo e instala no seu celular.
